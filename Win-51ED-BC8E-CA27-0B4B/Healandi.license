@@ -1,4 +1,4 @@
-<license vendor="Healandi" expiration="2025-12-31" hostId="Win-51ED-BC8E-CA27-0B4B" version="1.5">
- <feature name="landiReport" expiration="2025-12-31" version="1.7"/>
- <signature>MCwCFGMZo/n0nSVs22xuOzm76n1zzGFvAhRu38buW6dd5jQ/ePARAbv/g5Xz9w==</signature>
+<license vendor="Healandi" expiration="2999-12-31" hostId="Win-51ED-BC8E-CA27-0B4B" version="1.5">
+ <feature name="landiReport" expiration="2999-12-31" version="1.7"/>
+ <signature>MCwCFAgz0aQtdaM8GEU3BMnUdjNxt8YwAhREPfVyXIST/0cYuGF6WJm91aH7hA==</signature>
 </license>
